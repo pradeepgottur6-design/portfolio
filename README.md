@@ -82,5 +82,5 @@ A feature-rich task manager with:
    ```bash
    git clone https://github.com/your-username/portfolio.git
 2. Open the project folder
-3. Run the project
+3. Run the project:
    Open index.html in your browser
